@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Mesin robotic vacuum cleaner  (floor sweeper) yang bisa membersihkan lantai dari debu secara autonomous, dan isi ulang daya (charging) dengan otomatis.\n\nAGKBOTS G40 merupakan robotic vacuum cleaner dengan Sensor Lidar ultrasonic yang mendukung ketepatan dan keamanan saat membersihkan lantai, meskipun pada area yang cukup ramai.\n\nAGKBOTS G40 memiliki motor sikat yang kuat dan jangkauan sikat 74cm, sehingga pembersihan lebih maksimal. Terdapat 2 pilihan sweep lantai, yaitu dengan sikat atau flat mop.</string>
+
+    <string name="cont_machine_type">Floor Sweeper + vacuum cleaner</string>
+    <string name="cont_coverage">1200 m2/hr</string>
+    <string name="cont_cleaning_path">74 cm</string>
+    <string name="cont_dust_bag">12 L</string>
+    <string name="cont_trash_can">2,5 L</string>
+    <string name="cont_brush_speed">up to 1000rpm</string>
+    <string name="cont_power">Lithium ion battery (1000 watt)</string>
+    <string name="cont_runtime">3-4 hour</string>
+    <string name="cont_sensor">LIDAR, depth camera, ultrasonic sensor, collision bumper and anti falling sensor</string>
+    <string name="cont_stock">Stock terbatas</string>
+    <string name="cont_specification">Spesifikasi</string>
+
+    <string name="machine_type">Machine Type</string>
+    <string name="coverage">Coverage</string>
+    <string name="cleaning_path">Cleaning Path</string>
+    <string name="dust_bag">Dust Bag Capacity</string>
+    <string name="trash_can">Trash Can Capacity</string>
+    <string name="brush_speed">Brush Speed</string>
+    <string name="power">Power</string>
+    <string name="runtime">Runtime</string>
+    <string name="sensor">Sensors</string>
+
+    <string name="stock">Stock terbatas</string>
+    <string name="specification">Spesifikasi</string>
+
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Wasis Pambudi (24060120120015)</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$5750</string>
+    <string name="dummy_photos">2 photos</string>
+    <string name="todo">TODO</string>
+    <string name="hubungi_penjual">hubungi penjual</string>
+
+</resources>
