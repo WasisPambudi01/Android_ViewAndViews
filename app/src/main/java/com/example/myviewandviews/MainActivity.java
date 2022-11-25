@@ -30,11 +30,17 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     @Override
     public void onClick(View view) {
-        if (view.getId() == R.id.btn_phone_call) {
-            Intent callPhoneIntent = new Intent();
-            callPhoneIntent.setAction(Intent.ACTION_DIAL);
-            callPhoneIntent.setData(Uri.parse("tel:" + phoneNumber));
-            startActivity(callPhoneIntent);
+        switch(view.getId()){
+            case R.id.btn_buy:
+                Intent moveIntent = new Intent(MainActivity.this, SuccessActivity.class);
+                startActivity(moveIntent);
+                break;
+            case R.id.btn_phone_call:
+                Intent callPhoneIntent = new Intent();
+                callPhoneIntent.setAction(Intent.ACTION_DIAL);
+                callPhoneIntent.setData(Uri.parse("tel:" + phoneNumber));
+                startActivity(callPhoneIntent);
+                break;
         }
     }
 }

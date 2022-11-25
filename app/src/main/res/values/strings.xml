@@ -34,5 +34,6 @@
     <string name="dummy_photos">2 photos</string>
     <string name="todo">TODO</string>
     <string name="hubungi_penjual">hubungi penjual</string>
+    <string name="success">Pembelian Berhasil</string>
 
 </resources>
